@@ -1,0 +1,28 @@
+﻿RESUMELAB WEBSITE — PUBLISHING NOTES
+
+Files
+- index.html: Home page
+- styles.css: Design and responsive layout
+- privacy.html: Privacy information page
+
+Before publishing
+1. Open index.html and replace REPLACE-WITH-YOUR-EMAIL with the real business email address. Also update the small note below the email button to remove the setup instruction.
+2. Confirm the services and descriptions match what ResumeLab actually offers.
+3. The page currently has no order, payment, or résumé upload form. Add those only when you have a secure way to receive and handle customer information.
+
+Free hosting option
+GitHub Pages can host a static site for free using a public repository on GitHub Free. You can first publish using the free github.io address, then connect a domain you own. A custom domain still costs whatever you pay the domain registrar.
+
+Basic publishing steps
+1. Create a GitHub account at github.com if you do not already have one.
+2. Create a new public repository and upload the three files in this folder.
+3. In the repository, open Settings → Pages. Choose “Deploy from a branch,” select the main branch and root folder, and save.
+4. GitHub will show the published site address after it finishes. Open it to confirm the page works.
+5. To use your GoDaddy domain, add the domain in Settings → Pages → Custom domain, then follow GitHub’s current DNS instructions in your GoDaddy account. DNS changes can take time to appear.
+
+Official instructions:
+https://docs.github.com/en/pages/quickstart
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site
+
+Meta note
+A website can help people find consistent business information, but having a website does not guarantee Meta verification. Keep the site, domain, business details, and Meta account information accurate and consistent.
