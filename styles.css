@@ -38,3 +38,10 @@
 .whatsapp-float:hover{background:var(--navy)}
 .whatsapp-float:focus-visible{outline:3px solid var(--navy);outline-offset:3px}
 @media(max-width:480px){.whatsapp-float{right:12px;bottom:12px;padding:11px 14px;font-size:11px;gap:7px}.whatsapp-float small{font-size:9px}}
+
+.contact-card .contact-address{font-style:normal;font-size:10px;line-height:1.65;color:var(--muted);margin:0 0 16px}
+.contact-card .contact-email{font-family:'DM Sans',sans-serif;font-size:14px;align-items:center;gap:9px;white-space:nowrap}
+.contact-card .contact-email span{margin-left:auto;color:var(--teal)}
+.contact-card .whatsapp-link{gap:9px;white-space:nowrap}
+.contact-icon{width:18px;height:18px;flex:0 0 18px}
+.whatsapp-float .contact-icon{width:19px;height:19px;flex-basis:19px}
