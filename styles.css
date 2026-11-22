@@ -27,3 +27,8 @@
 .about-caption{color:#426474}
 .contact{background:#dcefed}
 .contact-card small{color:#687f89}
+
+.contact-card .contact-phone{font-size:13px;font-weight:700;color:var(--navy);margin:0 0 14px}
+.contact-card .contact-phone a{color:inherit}
+.contact-card .whatsapp-link{font-family:'DM Sans',sans-serif;font-size:12px;font-weight:700;border:0;padding:13px 14px;background:var(--teal);color:#fff;display:flex;align-items:center;justify-content:space-between;margin-top:14px;border-radius:4px}
+.contact-card .whatsapp-link span{color:#fff}
